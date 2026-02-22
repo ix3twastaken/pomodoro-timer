@@ -1,4 +1,7 @@
 # 🍅 Pomodoro Timer
+![GitHub License](https://img.shields.io/github/license/ix3twastaken/pomodoro-timer)  ![GitHub Repo stars](https://img.shields.io/github/stars/ix3twastaken/pomodoro-timer)
+
+# 📝Description
 
 A minimal **Pomodoro timer for Windows** built with Python.  
 The application allows users to configure work and break intervals and automatically runs them in a loop with Windows toast notifications.
@@ -50,7 +53,7 @@ If you trust this repository, you can:
 
 For maximum security, you can build the executable yourself from source (see below).
 
-### 🔹 Option 2 — Run from Source
+### 🔹 Option 2 — Build the executable from source
 
 #### Requirements
 
@@ -60,14 +63,20 @@ For maximum security, you can build the executable yourself from source (see bel
 - pyinstaller
 #### Clone the repository
 
-`git clone https://github.com/ix3twastaken/pomodoro-mini-app.git`  
-`cd pomodoro-timer`
+```bash
+git clone https://github.com/ix3twastaken/pomodoro-mini-app.git  
+cd pomodoro-timer
+```
 #### Install dependencies
 
-`pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt`
+```
 #### Build the executable
 
-`pyinstaller --name "Pomodoro timer" --onefile --windowed --add-data "src/assets;assets" --icon "src/assets/icon.ico" src/main.py`
+```bash
+pyinstaller --name "Pomodoro timer" --onefile --windowed --add-data "src/assets;assets" --icon "src/assets/icon.ico" src/main.py
+```
 
 The executable will be generated inside the `dist/` folder.
 
