@@ -11,7 +11,6 @@ This project was created as:
 - 📚 A learning project
 
 ## ✨ Features
----
 
 - ⏱ Custom work duration
 - ☕ Custom break duration
@@ -20,7 +19,6 @@ This project was created as:
 - 🛑 Stop button to interrupt the cycle
 
 ## 🧠 About the Pomodoro Technique
----
 
 The Pomodoro technique is a time-management method based on focused work intervals followed by short breaks.
 
@@ -33,7 +31,6 @@ Classic format:
 This app allows fully customizable intervals.
 
 ## 🚀 Installation
----
 
 ### 🔹 Option 1 — Download Prebuilt `.exe` (Windows)
 
@@ -75,5 +72,4 @@ For maximum security, you can build the executable yourself from source (see bel
 The executable will be generated inside the `dist/` folder.
 
 ## 📄 Credits
----
 <a href="https://www.flaticon.com/free-icons/tomato" title="tomato icons">Tomato icons created by Pixel perfect - Flaticon</a>
