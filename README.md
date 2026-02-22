@@ -6,7 +6,7 @@
 A minimal **Pomodoro timer for Windows** built with Python.  
 The application allows users to configure work and break intervals and automatically runs them in a loop with Windows toast notifications.
 
-![pomodoro-timer-preview](https://gist.githubusercontent.com/ix3twastaken/999c600639ab33b26995c916760d842c/raw/0c5505ca38b20692aa4beaba4746995642016e62/pomodoro-timer-preview.png)
+![pomodoro-timer-preview](https://gist.githubusercontent.com/ix3twastaken/999c600639ab33b26995c916760d842c/raw/8d5fef41220bb5d99a1bf601ec4ab820e8369269/pomodoro-timer-preview.png)
 
 This project was created as:
 
