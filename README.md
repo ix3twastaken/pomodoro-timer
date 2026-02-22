@@ -1,5 +1,5 @@
 # 🍅 Pomodoro Timer
-![GitHub License](https://img.shields.io/github/license/ix3twastaken/pomodoro-timer) ![GitHub Repo stars](https://img.shields.io/github/stars/ix3twastaken/pomodoro-timer)
+![GitHub License](https://img.shields.io/github/license/ix3twastaken/pomodoro-timer)  ![GitHub Repo stars](https://img.shields.io/github/stars/ix3twastaken/pomodoro-timer)
 
 # 📝Description
 
