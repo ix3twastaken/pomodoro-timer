@@ -37,7 +37,7 @@ This app allows fully customizable intervals.
 
 ### 🔹 Option 1 — Download Prebuilt `.exe` (Windows)
 
-1. Go to the <a href="https://github.com/ix3twastaken/pomodoro-timer/releases"><b>Releases</b></a> section.
+1. Go to the <a href="https://github.com/ix3twastaken/pomodoro-timer/releases" target="_blank"><b>Releases</b></a> section.
 2. Download the latest `.exe`.    
 3. Launch the application.
 
