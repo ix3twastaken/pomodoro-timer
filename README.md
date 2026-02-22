@@ -1,4 +1,7 @@
 # 🍅 Pomodoro Timer
+![GitHub License](https://img.shields.io/github/license/ix3twastaken/pomodoro-timer) ![GitHub Repo stars](https://img.shields.io/github/stars/ix3twastaken/pomodoro-timer)
+
+# 📝Description
 
 A minimal **Pomodoro timer for Windows** built with Python.  
 The application allows users to configure work and break intervals and automatically runs them in a loop with Windows toast notifications.
