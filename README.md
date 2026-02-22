@@ -53,7 +53,7 @@ If you trust this repository, you can:
 
 For maximum security, you can build the executable yourself from source (see below).
 
-### 🔹 Option 2 — Run from Source
+### 🔹 Option 2 — Build the executable from source
 
 #### Requirements
 
