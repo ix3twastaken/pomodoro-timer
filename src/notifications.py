@@ -1,7 +1,7 @@
 import dearpygui.dearpygui as dpg
 from notifypy import Notify
-from utils.sys_utils import get_file_path
 
+from utils.sys_utils import get_file_path
 from config import WORK_TIME, REST_TIME
 
 def timer_notify(user_data: str):
