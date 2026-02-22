@@ -51,7 +51,7 @@ def setup_gui():
             with dpg.table_row(tag="row_1"):
                 with dpg.group(tag="work_time_listbox"):
                     dpg.add_text(default_value="Work time",
-                                 indent=24)
+                                 indent=22)
                     dpg.add_listbox(
                         tag="work_time_presets",
                         items=list(WORK_TIME.keys()),
@@ -60,13 +60,13 @@ def setup_gui():
                     )
                 with dpg.group(tag="rest_time_listbox"):
                     dpg.add_text(default_value="Rest time",
-                                 indent=24)
+                                 indent=26)
                     dpg.add_listbox(
                     tag="rest_time_presets",
                     items=list(REST_TIME.keys()),
                     default_value="5",
                     width=152,
-                    indent=4
+                    indent=3
                     )
                     
         dpg.add_spacer(height=10)   
