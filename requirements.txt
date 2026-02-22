@@ -1,6 +1,3 @@
-# Core dependencies for Pomodoro Timer
-dearpygui>=1.10.0
-notify-py
-
-# Optional (for building executable)
-# pyinstaller>=6.0.0
+dearpygui>=2.1.1
+notify-py>=0.3.42
+pyinstaller>=6.0.0
