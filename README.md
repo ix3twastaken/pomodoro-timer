@@ -71,9 +71,8 @@ cd pomodoro-timer
 
 ```bash
 pip install -r requirements.txt`
-#### Build the executable
 ```
-#### Build executable
+#### Build the executable
 
 ```bash
 pyinstaller --name "Pomodoro timer" --onefile --windowed --add-data "src/assets;assets" --icon "src/assets/icon.ico" src/main.py
